@@ -1,0 +1,52 @@
+.position-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.font-title-principal {
+  font-size: 2rem !important;
+  font-weight: 700 !important ;
+  color: black;
+  font-family: rubik !important;
+}
+
+.font-title-Secundary {
+  font-size: 28px !important;
+  font-weight: 700 !important ;
+  color: #115b9c;
+  font-family: rubik !important;
+}
+
+.border-card {
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px 0px #00000026;
+}
+
+.font-title-card {
+  font-size: 20px !important;
+  font-weight: 600 !important ;
+  color: black;
+  font-family: rubik !important;
+}
+
+.font-description-card {
+  font-size: 17px !important;
+  font-weight: 400 !important ;
+  color: black;
+  font-family: rubik !important;
+}
+
+.position-header {
+  display:'block';
+  left:'0'; 
+  position:'fixed';
+   width:'100%'
+}
+
+.font-title-modal {
+  font-size: 17px !important;
+  font-weight: 600 !important ;
+  color: #115b9c;
+  font-family: rubik !important;
+}
