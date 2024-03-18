@@ -12,10 +12,6 @@ const router = createBrowserRouter([
     path: '/',
     element: <PokemonSearch />,
   },
-  // {
-  //   path: '/editar',
-  //   element: <HandlingPerson/>
-  // },
 ]);
 
 

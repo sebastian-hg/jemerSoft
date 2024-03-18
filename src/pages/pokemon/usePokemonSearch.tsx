@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useDispatch } from "react-redux";
 import { GenericInformationDTO, InformationPokemonResponseDTO } from "../../interfaces/interfaces";
-import { addPokemons } from "../../redux/userSlice";
+import { addPokemons } from "../../redux/pokemonSlice";
 import pokemonService from "../../services/pokemonService";
 
 interface OutputProps {
